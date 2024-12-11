@@ -1,6 +1,6 @@
 # GTA-SA-STEAM-LINUX
 
-Does roughly the same as the original but changed it to work in linux.
+Does roughly the same as the install.bat in the SA downgrader, but changed it to work in linux.
 
 Tested on ubuntu 24.10
 
