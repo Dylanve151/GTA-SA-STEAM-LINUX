@@ -1,4 +1,4 @@
-echo "SA DOWNGRADER FOR STEAM AND RGSC"
+echo "GTA SA DOWNGRADER FOR LINUX STEAM"
 ./jptch ./audio/streams/BEATS ./SA\ DOWNGRADE/BEATS.diff ./audio/streams/BEATS.down
 mv ./audio/streams/BEATS.down ./audio/streams/BEATS
 ./jptch ./audio/streams/CR ./SA\ DOWNGRADE/CR.diff ./audio/streams/CR.down
