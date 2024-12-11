@@ -6,7 +6,7 @@ Using this jptch: https://github.com/janjongboom/jdiff-js/blob/master/linux/jptc
 
 Download the http://downgraders.rockstarvision.com/ and https://github.com/janjongboom/jdiff-js/blob/master/linux/jptch
 
-Place the install.sh and jptch inside de downgrader dir.
+* Place the install.sh and jptch inside de downgrader dir.
 
 make the install.sh and jptch executable.
 
