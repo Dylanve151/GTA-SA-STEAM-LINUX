@@ -35,6 +35,7 @@ Recommending these mods:
 
 Other great additions:
 * Open Limit Adjuster: https://www.mixmods.com.br/2022/10/open-limit-adjuster/
+* Project2DFX: https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa
 * Proper fixes: https://www.mixmods.com.br/2024/10/sa-proper-fixes/
 * Framerate Vigilante: https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
 
