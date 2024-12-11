@@ -24,7 +24,7 @@ Running GTA SA in linux
 * Go into the propeties of GTA SA in steam and go to Compatibility
 * Enable "Force the use of a specific Steam Play compatibility tool"
 * Change it to "proton 9.0-3"
-* After installing mods and/or Silent patch make sure that dll, asi and exe file have execute permission. (not sure if its needed)
+* After installing mods and/or Silent patch make sure that dll, asi and exe file have execute permission. (not sure if This is needed)
 
 Recommending these mods:
 * Silent ASI: https://cookieplmonster.github.io/mods/gta-sa/#asiloader
