@@ -6,7 +6,7 @@ Tested on ubuntu 24.10
 
 Used this downgrader: http://downgraders.rockstarvision.com/
 
-Using this jptch: https://github.com/janjongboom/jdiff-js/blob/master/linux/jptch
+Used this jptch: https://github.com/janjongboom/jdiff-js/blob/master/linux/jptch
 
 
 Instructions:
