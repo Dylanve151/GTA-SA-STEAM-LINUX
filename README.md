@@ -2,6 +2,7 @@
 
 Does roughly the same as the original but changed it to work in linux.
 
+Tested on ubuntu 24.10
 
 Used this downgrader: http://downgraders.rockstarvision.com/
 
@@ -25,9 +26,9 @@ Running GTA SA in linux
 * Change it to "proton 9.0-3"
 * After installing mods or silent patch make sure that dll, asi and exe file have execute permission. (not sure if its needed)
 
-Didn't do a full playthrough on linux yet. but with the above it seems to startup just fine.
-
 Recommending these mods:
 * Silent patch: https://cookieplmonster.github.io/mods/gta-sa/
 * widescreenfix: https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtasa
 * SkyGfx: https://github.com/aap/skygfx/releases (I like the PS2 grafics)
+
+Didn't do a full playthrough on linux yet. but it seems to startup just fine with my instructions.
