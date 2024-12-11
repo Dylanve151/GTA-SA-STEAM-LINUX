@@ -4,6 +4,7 @@ Used this downgrader: http://downgraders.rockstarvision.com/
 
 Using this jptch: https://github.com/janjongboom/jdiff-js/blob/master/linux/jptch
 
+
 Instructions:
 
 * Download the http://downgraders.rockstarvision.com/ and https://github.com/janjongboom/jdiff-js/blob/master/linux/jptch
