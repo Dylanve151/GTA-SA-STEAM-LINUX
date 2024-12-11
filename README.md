@@ -24,11 +24,19 @@ Running GTA SA in linux
 * Go into the propeties of GTA SA in steam and go to Compatibility
 * Enable "Force the use of a specific Steam Play compatibility tool"
 * Change it to "proton 9.0-3"
-* After installing mods or silent patch make sure that dll, asi and exe file have execute permission. (not sure if its needed)
+* After installing mods and/or Silent patch make sure that dll, asi and exe file have execute permission. (not sure if its needed)
 
 Recommending these mods:
-* Silent patch: https://cookieplmonster.github.io/mods/gta-sa/
+* Silent ASI: https://cookieplmonster.github.io/mods/gta-sa/#asiloader
+* modloader: https://www.mixmods.com.br/2018/01/modloader/
+* Silent patch: https://cookieplmonster.github.io/mods/gta-sa/#silentpatch
 * widescreenfix: https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/gtasa
 * SkyGfx: https://github.com/aap/skygfx/releases (I like the PS2 grafics)
+
+Other great additions:
+* Open Limit Adjuster: https://www.mixmods.com.br/2022/10/open-limit-adjuster/
+* Proper fixes: https://www.mixmods.com.br/2024/10/sa-proper-fixes/
+* Framerate Vigilante: https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
+
 
 Didn't do a full playthrough on linux yet. but it seems to startup just fine with my instructions.
